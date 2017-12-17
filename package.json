@@ -1,5 +1,5 @@
 {
-  "name": "checkbox",
+  "name": "react_checkbox",
   "version": "1.0.0",
   "description": "React animated Checkbox Component",
   "main": "dist/index.js",
